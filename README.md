@@ -11,9 +11,12 @@
 ### 2.1. zip圧縮ファイルとしてダウンロードする方法
 はじめに，下記リンクからgit レポジトリを開きます．
 https://github.com/protectiveSystemsLab/modernControlTheory.git
-【<>Code▼】という緑色のボタンをクリックし，
-プルダウンメニューの　Download ZIP をクリックすると
+
+①【<>Code▼】という緑色のボタンをクリックし，
+②プルダウンメニューの　Download ZIP をクリックすると
 圧縮ファイルがダウンロードできます．
+
+![alt text](pullDownMenu.png)
 
 自分のPCの任意のフォルダに解答してご利用下さい．
 
